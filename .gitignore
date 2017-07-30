@@ -2,5 +2,6 @@
 /Altium/History/
 /Altium/Logs/
 /Altium/Outputs/
+/Altium/*.OutJob
 /Altium/*.PrjPcbStructure
 /SketchUp/*.skb
