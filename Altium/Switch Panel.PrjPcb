@@ -29,7 +29,7 @@ PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 ForceUpdateCount=0
-OutputPath=Outputs
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -124,62 +124,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Default Configuration\Outputs\NC Drill\Switch Panel-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Default Configuration\Outputs\NC Drill\Switch Panel-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Default Configuration\Outputs\NC Drill\Switch Panel.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Default Configuration\Outputs\Gerber\Switch Panel.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Default Configuration\Outputs\Gerber\Switch Panel.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Default Configuration\Outputs\Gerber\Switch Panel.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Default Configuration\Outputs\Gerber\Switch Panel.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Default Configuration\Outputs\Gerber\Switch Panel.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Default Configuration\Outputs\Gerber\Switch Panel.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Default Configuration\Outputs\Gerber\Switch Panel.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Default Configuration\Outputs\NC Drill\Switch Panel.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Default Configuration\Outputs\Gerber\Switch Panel.Outline
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Default Configuration\Outputs\Gerber\Switch Panel.REP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Default Configuration\Outputs\Gerber\Switch Panel.RUL
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -195,7 +139,7 @@ DocumentReferenceClass2=DocumentReference
 OutputJobFileName2=Switch Panel.OutJob
 
 [Generic_EDE]
-OutputDir=Outputs
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
